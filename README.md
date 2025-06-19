@@ -3,7 +3,7 @@
 ## 📄 Paper Title
 **Comparative Study of BERT and Hybrid Model (LSTM+GRU) for Language Detection using NLP**
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 - **Kola Vennela** – SR University  
 
 
